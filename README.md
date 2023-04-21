@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/patrick0969/CAB_2023/_apis/build/status%2FBl1zZ4rD-CH.pipelines-java?branchName=main)](https://dev.azure.com/patrick0969/CAB_2023/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
